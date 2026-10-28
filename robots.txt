@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doszhan-dev.pages.dev/sitemap.xml
